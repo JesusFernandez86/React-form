@@ -1,4 +1,4 @@
-Simple form sample working with React classes and examples on how to pass states from childs to parents. It has a fetch to a backend connected to a mysql database which has been commented for the case as it is not neccesary.
+Simple form sample working with React classes using typescript, and examples on how to pass states from childs to parents. It has a fetch to a backend connected to a mysql database which has been commented for the case as it is not neccesary.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
