@@ -1,3 +1,5 @@
+Simple form working with React classes and examples on how to pass states from childs to parents.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
